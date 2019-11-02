@@ -1,1 +1,2 @@
 file 3
+try to change one file in new folder
