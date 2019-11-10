@@ -1,0 +1,3508 @@
+
+YS@LAPTOP-DHSNN406 MINGW64 ~
+$ cd Y:\GlobalLogic_ProCamp\GL_EmbededProCamp_HomeWork\
+>
+bash: cd: Y:GlobalLogic_ProCampGL_EmbededProCamp_HomeWork: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 ~
+$ cd y/globallogic_procamp/gl_embededprocamp_homework/
+bash: cd: y/globallogic_procamp/gl_embededprocamp_homework/: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 ~
+$ cd y/globallogic_procamp/
+bash: cd: y/globallogic_procamp/: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 ~
+$ cd y/
+bash: cd: y/: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 ~
+$ cd y:\
+>
+
+YS@LAPTOP-DHSNN406 MINGW64 /y
+$ cd Y:\GlobalLogic_ProCamp\GL_EmbededProCamp_HomeWork\
+>
+bash: cd: Y:GlobalLogic_ProCampGL_EmbededProCamp_HomeWork: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y
+$ cd y/globallogic_procamp/gl_embededprocamp_homework/
+bash: cd: y/globallogic_procamp/gl_embededprocamp_homework/: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y
+$ cd y/globallogic_procamp/
+bash: cd: y/globallogic_procamp/: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y
+$ cd Y:\GlobalLogic_ProCamp\
+>
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ ls
+'~$EC_Lecture_2_C_Lang_part1_m.pptx'   archive/
+'1_Camp, Git Introduction.pptx'        GL_EmbededProCamp_HomeWork/
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ cd Y:\GlobalLogic_ProCamp\GL_EmbededProCamp_HomeWork\
+>
+bash: cd: Y:GlobalLogic_ProCampGL_EmbededProCamp_HomeWork: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ cd Y:\GlobalLogic_ProCamp\GL_EmbededProCamp_HomeWork
+bash: cd: Y:GlobalLogic_ProCampGL_EmbededProCamp_HomeWork: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ cd Y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork/
+bash: cd: Y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork/: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ cd y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork/
+bash: cd: y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork/: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ cd y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork
+bash: cd: y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ cd y/GlobalLogic_ProCamp/GL_EmbededProCamp_homework
+bash: cd: y/GlobalLogic_ProCamp/GL_EmbededProCamp_homework: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ cd y/GlobalLogic_ProCamp/GL_EmbededProCamp_homework/
+bash: cd: y/GlobalLogic_ProCamp/GL_EmbededProCamp_homework/: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ cd y/GlobalLogic_ProCamp/GL_embededprocamp_homework/
+bash: cd: y/GlobalLogic_ProCamp/GL_embededprocamp_homework/: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ cd y/GlobalLogic_ProCamp/gl_embededprocamp_homework/
+bash: cd: y/GlobalLogic_ProCamp/gl_embededprocamp_homework/: No such file or directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp
+$ cd GL_EmbededProCamp_HomeWork/
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   file_4.txt
+        new file:   file_5.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   file_2.txt
+
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit -m "add 2 new files"
+fatal: Unable to create 'Y:/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git pull
+Already up to date.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git remote
+origin
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git remote -v
+origin  git@github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git (fetch)
+origin  git@github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git (push)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ gitk&
+[1] 1989
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git gui&
+[2] 1993
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file_4.txt
+        file_5.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add file_4
+fatal: pathspec 'file_4' did not match any files
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add file_4.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add file_5.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit -m "add 2 new files"
+[master c1ef264] add 2 new files
+ 2 files changed, 2 insertions(+)
+ create mode 100644 file_4.txt
+ create mode 100644 file_5.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 326 bytes | 163.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+   a98881a..c1ef264  master -> master
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git log
+commit c1ef26431be648207c2caf808cb9a63aac92c4d8 (HEAD -> master, origin/master, origin/HEAD)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:45:28 2019 +0200
+
+    add 2 new files
+
+commit a98881a041cd0fa352fa0e5ce0bbb6c1b42d5115
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:43:28 2019 +0200
+
+    changed
+
+commit 44b071fbf784a818d4d03cf9e6dfc1e9ec8adcf4
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:26:13 2019 +0200
+
+    try commit only one line from full file
+
+commit c2644b146e7affcfb968cd1487f5fd0a413c498d
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:21:14 2019 +0200
+
+    add more content
+
+commit 6f87aba8cbd8f44e1ea5c04819acd713ce9d6610
+Author: ysharkadiy <55513462+ysharkadiy@users.noreply.github.com>
+Date:   Sat Nov 2 16:53:29 2019 +0200
+
+    add modification
+
+commit 55c0efb380441bc3f8a25e7283f962f93affaa82
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 16:50:16 2019 +0200
+
+    add 3 new files
+
+commit f06d95fea1bcd286fa14df6d8904c90203373f69
+Author: ysharkadiy <55513462+ysharkadiy@users.noreply.github.com>
+Date:   Sat Nov 2 15:56:10 2019 +0200
+
+    Initial commit
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git pull
+Already up to date.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        file.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ tree
+bash: tree: command not found
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git tree
+git: 'tree' is not a git command. See 'git --help'.
+
+The most similar command is
+        mktree
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git mktree
+
+fatal: input format error: (blank line only valid in batch mode)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git --help
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone     Clone a repository into a new directory
+   init      Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add       Add file contents to the index
+   mv        Move or rename a file, a directory, or a symlink
+   restore   Restore working tree files
+   rm        Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect    Use binary search to find the commit that introduced a bug
+   diff      Show changes between commits, commit and working tree, etc
+   grep      Print lines matching a pattern
+   log       Show commit logs
+   show      Show various types of objects
+   status    Show the working tree status
+
+grow, mark and tweak your common history
+   branch    List, create, or delete branches
+   commit    Record changes to the repository
+   merge     Join two or more development histories together
+   rebase    Reapply commits on top of another base tip
+   reset     Reset current HEAD to the specified state
+   switch    Switch branches
+   tag       Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch     Download objects and refs from another repository
+   pull      Fetch from and integrate with another repository or a local branch
+   push      Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git help reset
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ ls
+file.log  file_1.txt  file_2.txt  file_3.txt  file_4.txt  file_5.txt  Git_L1/  README.md
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add Git_L1/
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit Git_L1/
+error: pathspec 'Git_L1/' did not match any file(s) known to git
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git help <init>
+bash: syntax error near unexpected token `newline'
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git help init
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add .
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit
+hint: Waiting for your editor to close the file... error: There was a problem with the editor 'vi'.
+Please supply the message using either -m or -F option.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ gitk&
+[3] 2171
+[1]   Done                    gitk
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git sta
+stage    stash    status
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        Git_L1/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add Git_L1/
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Git_L1/file_6.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit ^C
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$
+
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$
+
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit Git_L1/file_6.txt -m "add one more file with new folder"
+[master 4ca0b43] add one more file with new folder
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Git_L1/file_6.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 342 bytes | 114.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+   c1ef264..4ca0b43  master -> master
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git log
+commit 4ca0b4396de6795e6f3117bde39f4b9ee12af7ec (HEAD -> master, origin/master, origin/HEAD)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:23:12 2019 +0200
+
+    add one more file with new folder
+
+commit c1ef26431be648207c2caf808cb9a63aac92c4d8
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:45:28 2019 +0200
+
+    add 2 new files
+
+commit a98881a041cd0fa352fa0e5ce0bbb6c1b42d5115
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:43:28 2019 +0200
+
+    changed
+
+commit 44b071fbf784a818d4d03cf9e6dfc1e9ec8adcf4
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:26:13 2019 +0200
+
+    try commit only one line from full file
+
+commit c2644b146e7affcfb968cd1487f5fd0a413c498d
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:21:14 2019 +0200
+
+    add more content
+
+commit 6f87aba8cbd8f44e1ea5c04819acd713ce9d6610
+Author: ysharkadiy <55513462+ysharkadiy@users.noreply.github.com>
+Date:   Sat Nov 2 16:53:29 2019 +0200
+
+    add modification
+
+commit 55c0efb380441bc3f8a25e7283f962f93affaa82
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 16:50:16 2019 +0200
+
+    add 3 new files
+
+commit f06d95fea1bcd286fa14df6d8904c90203373f69
+Author: ysharkadiy <55513462+ysharkadiy@users.noreply.github.com>
+Date:   Sat Nov 2 15:56:10 2019 +0200
+
+    Initial commit
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git pull
+Already up to date.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git -help
+unknown option: -help
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git help
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone     Clone a repository into a new directory
+   init      Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add       Add file contents to the index
+   mv        Move or rename a file, a directory, or a symlink
+   restore   Restore working tree files
+   rm        Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect    Use binary search to find the commit that introduced a bug
+   diff      Show changes between commits, commit and working tree, etc
+   grep      Print lines matching a pattern
+   log       Show commit logs
+   show      Show various types of objects
+   status    Show the working tree status
+
+grow, mark and tweak your common history
+   branch    List, create, or delete branches
+   commit    Record changes to the repository
+   merge     Join two or more development histories together
+   rebase    Reapply commits on top of another base tip
+   reset     Reset current HEAD to the specified state
+   switch    Switch branches
+   tag       Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch     Download objects and refs from another repository
+   pull      Fetch from and integrate with another repository or a local branch
+   push      Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    file_1.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        Git_L1/file_1.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    file_1.txt
+        deleted:    file_2.txt
+        deleted:    file_3.txt
+        deleted:    file_4.txt
+        deleted:    file_5.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        Git_L1/file_1.txt
+        Git_L1/file_2.txt
+        Git_L1/file_3.txt
+        Git_L1/file_4.txt
+        Git_L1/file_5.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add .
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit -m "Move file to new directory"
+[master 8e6230b] Move file to new directory
+ 5 files changed, 0 insertions(+), 0 deletions(-)
+ rename file_1.txt => Git_L1/file_1.txt (100%)
+ rename file_2.txt => Git_L1/file_2.txt (100%)
+ rename file_3.txt => Git_L1/file_3.txt (100%)
+ rename file_4.txt => Git_L1/file_4.txt (100%)
+ rename file_5.txt => Git_L1/file_5.txt (100%)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 464 bytes | 154.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+   4ca0b43..8e6230b  master -> master
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Git_L1/file_3.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add Git_L1/file_3.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit -m "try to change one file in new folder"
+[master 2c00944] try to change one file in new folder
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 401 bytes | 200.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+   8e6230b..2c00944  master -> master
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git checkout -b Git_L1
+Switched to a new branch 'Git_L1'
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git status
+On branch Git_L1
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Git_L1/file_4.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git add Git_L1/file_4.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git commit -m "playing with branches"
+[Git_L1 5ce2f41] playing with branches
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git status
+On branch Git_L1
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Git_L1/file_5.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git add Git_L1/file_4.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git add Git_L1/file_5.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git commit -m "create one more commit in new branch"
+[Git_L1 816cbff] create one more commit in new branch
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git log
+commit 816cbff8d3a84f445a4487a29246b975e7be2cd3 (HEAD -> Git_L1)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 12:46:58 2019 +0200
+
+    create one more commit in new branch
+
+commit 5ce2f4183a5b7c706108fea834b7ea587a5a8488
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 12:44:50 2019 +0200
+
+    playing with branches
+
+commit 2c00944ed2e403d9dc164ad07446f038ef1383e4 (origin/master, origin/HEAD, master)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:39:47 2019 +0200
+
+    try to change one file in new folder
+
+commit 8e6230be9d8e978e5f0e14c24f94dae6d44d0b17
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:35:49 2019 +0200
+
+    Move file to new directory
+
+commit 4ca0b4396de6795e6f3117bde39f4b9ee12af7ec
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:23:12 2019 +0200
+
+    add one more file with new folder
+
+commit c1ef26431be648207c2caf808cb9a63aac92c4d8
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:45:28 2019 +0200
+
+    add 2 new files
+
+commit a98881a041cd0fa352fa0e5ce0bbb6c1b42d5115
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:43:28 2019 +0200
+
+    changed
+
+commit 44b071fbf784a818d4d03cf9e6dfc1e9ec8adcf4
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:26:13 2019 +0200
+
+    try commit only one line from full file
+
+commit c2644b146e7affcfb968cd1487f5fd0a413c498d
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:21:14 2019 +0200
+
+    add more content
+
+commit 6f87aba8cbd8f44e1ea5c04819acd713ce9d6610
+Author: ysharkadiy <55513462+ysharkadiy@users.noreply.github.com>
+Date:   Sat Nov 2 16:53:29 2019 +0200
+
+    add modification
+
+commit 55c0efb380441bc3f8a25e7283f962f93affaa82
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 16:50:16 2019 +0200
+
+    add 3 new files
+
+commit f06d95fea1bcd286fa14df6d8904c90203373f69
+Author: ysharkadiy <55513462+ysharkadiy@users.noreply.github.com>
+Date:   Sat Nov 2 15:56:10 2019 +0200
+
+    Initial commit
+ ESCOC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ESCOD
+    Move file to new directory
+
+commit 4ca0b4396de6795e6f3117bde39f4b9ee12af7ec
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:23:12 2019 +0200
+
+    add one more file with new folder
+
+commit c1ef26431be648207c2caf808cb9a63aac92c4d8
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:45:28 2019 +0200
+
+    add 2 new files
+
+commit a98881a041cd0fa352fa0e5ce0bbb6c1b42d5115
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:43:28 2019 +0200
+
+    changed
+
+commit 44b071fbf784a818d4d03cf9e6dfc1e9ec8adcf4
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:26:13 2019 +0200
+
+    try commit only one line from full file
+
+commit c2644b146e7affcfb968cd1487f5fd0a413c498d
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:21:14 2019 +0200
+
+    add more content
+
+commit 6f87aba8cbd8f44e1ea5c04819acd713ce9d6610
+Author: ysharkadiy <55513462+ysharkadiy@users.noreply.github.com>
+Date:   Sat Nov 2 16:53:29 2019 +0200
+
+    add modification
+
+commit 55c0efb380441bc3f8a25e7283f962f93affaa82
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 16:50:16 2019 +0200
+
+    add 3 new files
+
+commit f06d95fea1bcd286fa14df6d8904c90203373f69
+Author: ysharkadiy <55513462+ysharkadiy@users.noreply.github.com>
+Date:   Sat Nov 2 15:56:10 2019 +0200
+
+    Initial commit
+ ESCOC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ESCOC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ESCOC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...skipping...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+set mark: ...skipping...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ESC[3...skipping...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...skipping...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...skipping...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...skipping...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git log
+commit 816cbff8d3a84f445a4487a29246b975e7be2cd3 (HEAD -> Git_L1)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 12:46:58 2019 +0200
+
+    create one more commit in new branch
+
+commit 5ce2f4183a5b7c706108fea834b7ea587a5a8488
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 12:44:50 2019 +0200
+
+    playing with branches
+
+commit 2c00944ed2e403d9dc164ad07446f038ef1383e4 (origin/master, origin/HEAD, master)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:39:47 2019 +0200
+
+    try to change one file in new folder
+
+commit 8e6230be9d8e978e5f0e14c24f94dae6d44d0b17
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:35:49 2019 +0200
+
+    Move file to new directory
+
+commit 4ca0b4396de6795e6f3117bde39f4b9ee12af7ec
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:23:12 2019 +0200
+
+    add one more file with new folder
+
+commit c1ef26431be648207c2caf808cb9a63aac92c4d8
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:45:28 2019 +0200
+
+    add 2 new files
+
+commit a98881a041cd0fa352fa0e5ce0bbb6c1b42d5115
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:43:28 2019 +0200
+
+    changed
+
+commit 44b071fbf784a818d4d03cf9e6dfc1e9ec8adcf4
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:26:13 2019 +0200
+
+    try commit only one line from full file
+
+commit c2644b146e7affcfb968cd1487f5fd0a413c498d
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git pull
+Already up to date.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Everything up-to-date
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git log
+commit 2c00944ed2e403d9dc164ad07446f038ef1383e4 (HEAD -> master, origin/master, origin/HEAD)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:39:47 2019 +0200
+
+    try to change one file in new folder
+
+commit 8e6230be9d8e978e5f0e14c24f94dae6d44d0b17
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:35:49 2019 +0200
+
+    Move file to new directory
+
+commit 4ca0b4396de6795e6f3117bde39f4b9ee12af7ec
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:23:12 2019 +0200
+
+    add one more file with new folder
+
+commit c1ef26431be648207c2caf808cb9a63aac92c4d8
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:45:28 2019 +0200
+
+    add 2 new files
+
+commit a98881a041cd0fa352fa0e5ce0bbb6c1b42d5115
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:43:28 2019 +0200
+
+    changed
+
+commit 44b071fbf784a818d4d03cf9e6dfc1e9ec8adcf4
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:26:13 2019 +0200
+
+    try commit only one line from full file
+
+commit c2644b146e7affcfb968cd1487f5fd0a413c498d
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:21:14 2019 +0200
+
+    add more content
+
+commit 6f87aba8cbd8f44e1ea5c04819acd713ce9d6610
+Author: ysharkadiy <55513462+ysharkadiy@users.noreply.github.com>
+Date:   Sat Nov 2 16:53:29 2019 +0200
+
+    add modification
+
+commit 55c0efb380441bc3f8a25e7283f962f93affaa82
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git checkout Git_L1
+Switched to branch 'Git_L1'
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git log
+commit 816cbff8d3a84f445a4487a29246b975e7be2cd3 (HEAD -> Git_L1)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 12:46:58 2019 +0200
+
+    create one more commit in new branch
+
+commit 5ce2f4183a5b7c706108fea834b7ea587a5a8488
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 12:44:50 2019 +0200
+
+    playing with branches
+
+commit 2c00944ed2e403d9dc164ad07446f038ef1383e4 (origin/master, origin/HEAD, master)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:39:47 2019 +0200
+
+    try to change one file in new folder
+
+commit 8e6230be9d8e978e5f0e14c24f94dae6d44d0b17
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:35:49 2019 +0200
+
+    Move file to new directory
+
+commit 4ca0b4396de6795e6f3117bde39f4b9ee12af7ec
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 00:23:12 2019 +0200
+
+    add one more file with new folder
+
+commit c1ef26431be648207c2caf808cb9a63aac92c4d8
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:45:28 2019 +0200
+
+    add 2 new files
+
+commit a98881a041cd0fa352fa0e5ce0bbb6c1b42d5115
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 22:43:28 2019 +0200
+
+    changed
+
+commit 44b071fbf784a818d4d03cf9e6dfc1e9ec8adcf4
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sat Nov 2 17:26:13 2019 +0200
+
+    try commit only one line from full file
+
+commit c2644b146e7affcfb968cd1487f5fd0a413c498d
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git push
+fatal: The current branch Git_L1 has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin Git_L1
+
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git push --set-upstream origin Git_L1
+Enumerating objects: 12, done.
+Counting objects: 100% (12/12), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 785 bytes | 196.00 KiB/s, done.
+Total 8 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+remote:
+remote: Create a pull request for 'Git_L1' on GitHub by visiting:
+remote:      https://github.com/ysharkadiy/GL_EmbededProCamp_HomeWork/pull/new/Git_L1
+remote:
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+ * [new branch]      Git_L1 -> Git_L1
+Branch 'Git_L1' set up to track remote branch 'Git_L1' from 'origin'.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git merge Git_L1
+Updating 2c00944..816cbff
+Fast-forward
+ Git_L1/file_4.txt | 3 ++-
+ Git_L1/file_5.txt | 3 ++-
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Total 0 (delta 0), reused 0 (delta 0)
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+   2c00944..816cbff  master -> master
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add README.md
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit -m "master commit"
+[master d502f4d] master commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git checkout Git_L1
+Switched to branch 'Git_L1'
+Your branch is up to date with 'origin/Git_L1'.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git status
+On branch Git_L1
+Your branch is up to date with 'origin/Git_L1'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Git_L1/file_6.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git add Git_L1/file_6.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git commit -m "branch commit"
+[Git_L1 a0d62c9] branch commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git merge Git_L1
+Merge made by the 'recursive' strategy.
+ Git_L1/file_6.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (9/9), 863 bytes | 215.00 KiB/s, done.
+Total 9 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+   816cbff..49b48ac  master -> master
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git statis
+git: 'statis' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Git_L1/file_3.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add Git_L1/file_3.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit -m "add sime joke"
+[master 9be5ee9] add sime joke
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git checkout Git_L1
+Switched to branch 'Git_L1'
+Your branch is ahead of 'origin/Git_L1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+[2]-  Exit 127                git gui
+[3]+  Done                    gitk
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 476 bytes | 238.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+   49b48ac..9be5ee9  master -> master
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ gitgui&
+[1] 2537
+bash: gitgui: command not found
+[1]+  Exit 127                gitgui
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git gui&
+[1] 2541
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git pull
+Merge made by the 'recursive' strategy.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Enumerating objects: 2, done.
+Counting objects: 100% (2/2), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 362 bytes | 362.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+   9be5ee9..d1a189d  master -> master
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ gitk&
+[2] 2571
+[1]   Done                    git gui
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add Git_L1/file_3.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit -m "one more joke"
+[master 3bc2451] one more joke
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git checkout Git_L1
+Switched to branch 'Git_L1'
+Your branch is ahead of 'origin/Git_L1' by 1 commit.
+  (use "git push" to publish your local commits)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git add Git_L1/file_3.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git commit -m "add another joke"
+[Git_L1 221aec6] add another joke
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (Git_L1)
+$ git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git merge Git_L1
+Auto-merging Git_L1/file_3.txt
+CONFLICT (content): Merge conflict in Git_L1/file_3.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master|MERGING)
+$
+Display all 4953 possibilities? (y or n)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master|MERGING)
+$
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master|MERGING)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+        both modified:   Git_L1/file_3.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master|MERGING)
+$ git gui&
+[3] 2640
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master|MERGING)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
+[2]-  Done                    gitk
+[3]+  Done                    git gui
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git log
+commit 9ad23cf49206b563ca787fb8a576d9970bbfb43f (HEAD -> master)
+Merge: 3bc2451 221aec6
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:32:14 2019 +0200
+
+    Merge branch 'Git_L1'
+
+    # Conflicts:
+    #       Git_L1/file_3.txt
+
+commit 221aec6a195ba2a766a117167af68ee3b6bd9752 (Git_L1)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:23:17 2019 +0200
+
+    add another joke
+
+commit 3bc24510353998fe81f2d8677602f7f817352b95
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:21:48 2019 +0200
+
+    one more joke
+
+commit d1a189d08d7881830d55e87a2f25aaedf7691a53 (origin/master, origin/HEAD)
+Merge: d85f233 9be5ee9
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:11:23 2019 +0200
+
+    Merge branch 'master' of github.com:ysharkadiy/GL_EmbededProCamp_HomeWork
+
+commit d85f233a474c56c1cc2c2afb1e0b1c9984c045af
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:05:34 2019 +0200
+
+    add some joke
+
+commit 9be5ee9ae935c27563f11eb136822d362b2bfa0e
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:05:34 2019 +0200
+
+    add sime joke
+
+commit 49b48acc24956d86e3cf88b4c5836f4b43d7fcad
+Merge: d502f4d a0d62c9
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 13:57:14 2019 +0200
+
+    Merge branch 'Git_L1'
+
+commit a0d62c9b031de1c20bbffc8e10bacd338971848a
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (12/12), 1.28 KiB | 187.00 KiB/s, done.
+Total 12 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas: 100% (5/5), completed with 1 local object.
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+   d1a189d..9ad23cf  master -> master
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git branch --all
+  Git_L1
+* master
+  remotes/origin/Git_L1
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/master
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git tag version1
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git log
+commit 9ad23cf49206b563ca787fb8a576d9970bbfb43f (HEAD -> master, tag: version1, origin/master, origin/HEAD)
+Merge: 3bc2451 221aec6
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:32:14 2019 +0200
+
+    Merge branch 'Git_L1'
+
+    # Conflicts:
+    #       Git_L1/file_3.txt
+
+commit 221aec6a195ba2a766a117167af68ee3b6bd9752 (Git_L1)
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:23:17 2019 +0200
+
+    add another joke
+
+commit 3bc24510353998fe81f2d8677602f7f817352b95
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:21:48 2019 +0200
+
+    one more joke
+
+commit d1a189d08d7881830d55e87a2f25aaedf7691a53
+Merge: d85f233 9be5ee9
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:11:23 2019 +0200
+
+    Merge branch 'master' of github.com:ysharkadiy/GL_EmbededProCamp_HomeWork
+
+commit d85f233a474c56c1cc2c2afb1e0b1c9984c045af
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:05:34 2019 +0200
+
+    add some joke
+
+commit 9be5ee9ae935c27563f11eb136822d362b2bfa0e
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 14:05:34 2019 +0200
+
+    add sime joke
+
+commit 49b48acc24956d86e3cf88b4c5836f4b43d7fcad
+Merge: d502f4d a0d62c9
+Author: Yuliya Sharkadiy <ysharkadiy@gmail.com>
+Date:   Sun Nov 3 13:57:14 2019 +0200
+
+    Merge branch 'Git_L1'
+
+commit a0d62c9b031de1c20bbffc8e10bacd338971848a
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git checkout version1
+Note: switching to 'version1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 9ad23cf Merge branch 'Git_L1'
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork ((version1))
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git tag --list
+version1
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Everything up-to-date
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add Git_L1/file_5.txt
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git commit -m "tagget commit"
+[master 0d9aa46] tagget commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git guti&
+[1] 2728
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git: 'guti' is not a git command. See 'git --help'.
+
+The most similar command is
+        gui
+git gui&
+[2] 2732
+[1]   Exit 1                  git guti
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 401 bytes | 133.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+   9ad23cf..7186331  master -> master
+[2]+  Done                    git gui
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git tag stable
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push --tags
+Total 0 (delta 0), reused 0 (delta 0)
+To github.com:ysharkadiy/GL_EmbededProCamp_HomeWork.git
+ * [new tag]         stable -> stable
+ * [new tag]         version1 -> version1
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git blame
+usage: git blame [<options>] [<rev-opts>] [<rev>] [--] <file>
+
+    <rev-opts> are documented in git-rev-list(1)
+
+    --incremental         Show blame entries as we find them, incrementally
+    -b                    Show blank SHA-1 for boundary commits (Default: off)
+    --root                Do not treat root commits as boundaries (Default: off)
+    --show-stats          Show work cost statistics
+    --progress            Force progress reporting
+    --score-debug         Show output score for blame entries
+    -f, --show-name       Show original filename (Default: auto)
+    -n, --show-number     Show original linenumber (Default: off)
+    -p, --porcelain       Show in a format designed for machine consumption
+    --line-porcelain      Show porcelain format with per-line commit information
+    -c                    Use the same output mode as git-annotate (Default: off)
+    -t                    Show raw timestamp (Default: off)
+    -l                    Show long commit SHA1 (Default: off)
+    -s                    Suppress author name and timestamp (Default: off)
+    -e, --show-email      Show author email instead of name (Default: off)
+    -w                    Ignore whitespace differences
+    --ignore-rev <rev>    Ignore <rev> when blaming
+    --ignore-revs-file <file>
+                          Ignore revisions from <file>
+    --color-lines         color redundant metadata from previous line differently
+    --color-by-age        color lines by age
+    --indent-heuristic    Use an experimental heuristic to improve diffs
+    --minimal             Spend extra cycles to find better match
+    -S <file>             Use revisions from <file> instead of calling git-rev-list
+    --contents <file>     Use <file>'s contents as the final image
+    -C[<score>]           Find line copies within and across files
+    -M[<score>]           Find line movements within and across files
+    -L <n,m>              Process only line range n,m, counting from 1
+    --abbrev[=<n>]        use <n> digits to display SHA-1s
+
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git log --pretty=format:"%h %s" -graph
+fatal: unrecognized argument: -graph
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git push
+Everything up-to-date
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        First pro/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git add First\ pro/
+warning: LF will be replaced by CRLF in First pro/MDK-ARM/First pro.uvguix.yuliyas.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in First pro/MDK-ARM/First pro.uvoptx.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in First pro/MDK-ARM/First pro.uvprojx.
+The file will have its original line endings in your working directory
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git gui&
+[1] 2806
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git checkout .
+Updated 0 paths from the index
+[1]+  Done                    git gui
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/CommonTables/arm_common_tables.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/CommonTables/arm_const_structs.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_sin_cos_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_sin_cos_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sqrt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sqrt_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_32x64_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_32x64_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_f64.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_init_f64.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_stereo_df2T_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_stereo_df2T_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_opt_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_opt_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_opt_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_inverse_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_inverse_f64.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_float.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_float.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_float.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_bitreversal.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix8_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_fast_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_fast_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_q31.c
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f301x8.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f302x8.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f302xc.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f302xe.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303xc.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303xe.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f318xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f328xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f334x8.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f358xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f373xc.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f378xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f398xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f3xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/system_stm32f3xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f301x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f302x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f302xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f302xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f303x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f303xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f303xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f318xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f328xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f334x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f358xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f373xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f378xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f398xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f301x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f302x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f302xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f302xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f303x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f303xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f303xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f318xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f328xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f334x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f358xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f373xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f378xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f398xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f301x8_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f302x8_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f302xc_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f302xe_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f303x8_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f303xc_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f303xe_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f318xx_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f328xx_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f334x8_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f358xx_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f373xc_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f378xx_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f398xx_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f301x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f302x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f302xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f302xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f303x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f303xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f303xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f318xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f328xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f334x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f358xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f373xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f378xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f398xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/system_stm32f3xx.c
+        new file:   First pro/Drivers/CMSIS/Include/arm_common_tables.h
+        new file:   First pro/Drivers/CMSIS/Include/arm_const_structs.h
+        new file:   First pro/Drivers/CMSIS/Include/arm_math.h
+        new file:   First pro/Drivers/CMSIS/Include/cmsis_armcc.h
+        new file:   First pro/Drivers/CMSIS/Include/cmsis_armcc_V6.h
+        new file:   First pro/Drivers/CMSIS/Include/cmsis_gcc.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cm0.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cm0plus.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cm3.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cm4.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cm7.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cmFunc.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cmInstr.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cmSimd.h
+        new file:   First pro/Drivers/CMSIS/Include/core_sc000.h
+        new file:   First pro/Drivers/CMSIS/Include/core_sc300.h
+        new file:   First pro/Drivers/CMSIS/Lib/ARM/arm_cortexM4b_math.lib
+        new file:   First pro/Drivers/CMSIS/Lib/ARM/arm_cortexM4bf_math.lib
+        new file:   First pro/Drivers/CMSIS/Lib/ARM/arm_cortexM4l_math.lib
+        new file:   First pro/Drivers/CMSIS/Lib/ARM/arm_cortexM4lf_math.lib
+        new file:   First pro/Drivers/CMSIS/Lib/GCC/libarm_cortexM4l_math.a
+        new file:   First pro/Drivers/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a
+        new file:   First pro/Drivers/CMSIS/RTOS/Template/cmsis_os.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/Legacy/stm32f3xx_hal_can_legacy.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32_assert_template.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_adc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_adc_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_can.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_cec.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_comp.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_comp_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_conf_template.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_cortex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_crc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_crc_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dac.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dac_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_def.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_hrtim.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2s.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2s_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_irda.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_irda_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_iwdg.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_nand.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_nor.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_opamp.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_opamp_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pccard.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pcd.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pcd_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rtc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rtc_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_sdadc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_smartcard.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_smartcard_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_smbus.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_sram.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tsc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_usart.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_usart_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_wwdg.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_adc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_bus.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_comp.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_cortex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_crc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_dac.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_dma.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_exti.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_fmc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_gpio.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_hrtim.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_i2c.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_iwdg.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_opamp.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_pwr.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_rcc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_rtc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_spi.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_system.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_tim.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_usart.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_utils.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_wwdg.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_adc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_adc_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_can.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_cec.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_comp.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_cortex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_crc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_crc_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_dac.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_dac_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_dma.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_flash.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_flash_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_gpio.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_hrtim.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2c.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2c_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2s.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2s_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_irda.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_iwdg.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_msp_template.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_nand.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_nor.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_opamp.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_opamp_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pccard.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pcd.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pcd_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rcc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rcc_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rtc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rtc_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_sdadc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_smartcard.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_smartcard_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_smbus.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_spi.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_spi_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_sram.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tim.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tim_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_alarm_template.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_wakeup_template.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_tim_template.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tsc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_uart.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_uart_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_usart.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_wwdg.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_adc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_comp.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_crc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_dac.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_dma.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_exti.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_fmc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_gpio.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_hrtim.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_i2c.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_opamp.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_pwr.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_rcc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_rtc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_spi.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_tim.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_usart.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_utils.c
+        new file:   First pro/First pro.ioc
+        new file:   First pro/Inc/main.h
+        new file:   First pro/Inc/stm32f3xx_hal_conf.h
+        new file:   First pro/Inc/stm32f3xx_it.h
+        new file:   First pro/MDK-ARM/DebugConfig/First_pro_STM32F303VCTx.dbgconf
+        new file:   First pro/MDK-ARM/First pro.uvguix.yuliyas
+        new file:   First pro/MDK-ARM/First pro.uvoptx
+        new file:   First pro/MDK-ARM/First pro.uvprojx
+        new file:   First pro/MDK-ARM/First pro/First pro.axf
+        new file:   First pro/MDK-ARM/First pro/First pro.build_log.htm
+        new file:   First pro/MDK-ARM/First pro/First pro.hex
+        new file:   First pro/MDK-ARM/First pro/First pro.htm
+        new file:   First pro/MDK-ARM/First pro/First pro.lnp
+        new file:   First pro/MDK-ARM/First pro/First pro.map
+        new file:   First pro/MDK-ARM/First pro/First pro.sct
+        new file:   First pro/MDK-ARM/First pro/First pro_First pro.dep
+        new file:   First pro/MDK-ARM/First pro/main.crf
+        new file:   First pro/MDK-ARM/First pro/main.d
+        new file:   First pro/MDK-ARM/First pro/main.o
+        new file:   First pro/MDK-ARM/First pro/startup_stm32f303xc.d
+        new file:   First pro/MDK-ARM/First pro/startup_stm32f303xc.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_cortex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_cortex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_cortex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_dma.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_dma.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_dma.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_gpio.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_gpio.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_gpio.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_msp.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_msp.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_msp.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_it.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_it.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_it.o
+        new file:   First pro/MDK-ARM/First pro/system_stm32f3xx.crf
+        new file:   First pro/MDK-ARM/First pro/system_stm32f3xx.d
+        new file:   First pro/MDK-ARM/First pro/system_stm32f3xx.o
+        new file:   First pro/MDK-ARM/RTE/_First_pro/RTE_Components.h
+        new file:   First pro/MDK-ARM/startup_stm32f303xc.lst
+        new file:   First pro/MDK-ARM/startup_stm32f303xc.s
+        new file:   First pro/Src/main.c
+        new file:   First pro/Src/stm32f3xx_hal_msp.c
+        new file:   First pro/Src/stm32f3xx_it.c
+        new file:   First pro/Src/system_stm32f3xx.c
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        First pro/.mxproject
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_f32.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q15.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q31.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q7.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_f32.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q15.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q31.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q7.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_f32.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q15.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q31.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q7.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_f32.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q15.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q31.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q7.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_f32.c
+        First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q15.c
+
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git clean -xdf
+Removing .gitignore
+Removing First pro/.mxproject
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_f32.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q15.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q31.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_q7.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_f32.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q15.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q31.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_add_q7.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_f32.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q15.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q31.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_dot_prod_q7.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_f32.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q15.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q31.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_mult_q7.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_f32.c
+Removing First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q15.c
+Removing file.log
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git gui&
+[1] 2825
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_negate_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_offset_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_scale_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_shift_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_sub_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/CommonTables/arm_common_tables.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/CommonTables/arm_const_structs.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_conj_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_dot_prod_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mag_squared_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_cmplx_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ComplexMathFunctions/arm_cmplx_mult_real_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_pid_reset_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_sin_cos_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/ControllerFunctions/arm_sin_cos_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_cos_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sin_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sqrt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FastMathFunctions/arm_sqrt_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_32x64_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_32x64_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df1_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_f64.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_df2T_init_f64.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_stereo_df2T_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_biquad_cascade_stereo_df2T_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_opt_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_opt_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_partial_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_conv_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_opt_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_opt_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_correlate_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_decimate_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_init_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_interpolate_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_lattice_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_init_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_fir_sparse_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_norm_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_lms_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_add_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_cmplx_mult_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_inverse_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_inverse_f64.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_fast_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_fast_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_mult_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_scale_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_sub_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/MatrixFunctions/arm_mat_trans_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_max_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_mean_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_min_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_power_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_rms_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_std_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/StatisticsFunctions/arm_var_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_copy_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_fill_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_float_to_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_float.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q15_to_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_float.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q31_to_q7.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_float.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/SupportFunctions/arm_q7_to_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_bitreversal.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix2_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix4_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_cfft_radix8_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_dct4_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_fast_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_fast_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_f32.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_init_q31.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_q15.c
+        new file:   First pro/Drivers/CMSIS/DSP_Lib/Source/TransformFunctions/arm_rfft_q31.c
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f301x8.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f302x8.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f302xc.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f302xe.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303x8.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303xc.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303xe.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f318xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f328xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f334x8.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f358xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f373xc.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f378xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f398xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f3xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Include/system_stm32f3xx.h
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f301x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f302x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f302xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f302xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f303x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f303xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f303xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f318xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f328xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f334x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f358xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f373xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f378xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/arm/startup_stm32f398xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f301x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f302x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f302xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f302xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f303x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f303xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f303xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f318xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f328xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f334x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f358xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f373xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f378xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/gcc/startup_stm32f398xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f301x8_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f302x8_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f302xc_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f302xe_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f303x8_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f303xc_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f303xe_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f318xx_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f328xx_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f334x8_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f358xx_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f373xc_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f378xx_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/linker/stm32f398xx_flash.icf
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f301x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f302x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f302xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f302xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f303x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f303xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f303xe.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f318xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f328xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f334x8.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f358xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f373xc.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f378xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/iar/startup_stm32f398xx.s
+        new file:   First pro/Drivers/CMSIS/Device/ST/STM32F3xx/Source/Templates/system_stm32f3xx.c
+        new file:   First pro/Drivers/CMSIS/Include/arm_common_tables.h
+        new file:   First pro/Drivers/CMSIS/Include/arm_const_structs.h
+        new file:   First pro/Drivers/CMSIS/Include/arm_math.h
+        new file:   First pro/Drivers/CMSIS/Include/cmsis_armcc.h
+        new file:   First pro/Drivers/CMSIS/Include/cmsis_armcc_V6.h
+        new file:   First pro/Drivers/CMSIS/Include/cmsis_gcc.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cm0.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cm0plus.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cm3.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cm4.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cm7.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cmFunc.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cmInstr.h
+        new file:   First pro/Drivers/CMSIS/Include/core_cmSimd.h
+        new file:   First pro/Drivers/CMSIS/Include/core_sc000.h
+        new file:   First pro/Drivers/CMSIS/Include/core_sc300.h
+        new file:   First pro/Drivers/CMSIS/Lib/ARM/arm_cortexM4b_math.lib
+        new file:   First pro/Drivers/CMSIS/Lib/ARM/arm_cortexM4bf_math.lib
+        new file:   First pro/Drivers/CMSIS/Lib/ARM/arm_cortexM4l_math.lib
+        new file:   First pro/Drivers/CMSIS/Lib/ARM/arm_cortexM4lf_math.lib
+        new file:   First pro/Drivers/CMSIS/Lib/GCC/libarm_cortexM4l_math.a
+        new file:   First pro/Drivers/CMSIS/Lib/GCC/libarm_cortexM4lf_math.a
+        new file:   First pro/Drivers/CMSIS/RTOS/Template/cmsis_os.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/Legacy/stm32f3xx_hal_can_legacy.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32_assert_template.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_adc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_adc_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_can.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_cec.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_comp.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_comp_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_conf_template.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_cortex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_crc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_crc_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dac.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dac_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_def.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_hrtim.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2s.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2s_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_irda.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_irda_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_iwdg.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_nand.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_nor.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_opamp.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_opamp_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pccard.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pcd.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pcd_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rtc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rtc_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_sdadc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_smartcard.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_smartcard_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_smbus.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_sram.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tsc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_usart.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_usart_ex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_wwdg.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_adc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_bus.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_comp.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_cortex.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_crc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_dac.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_dma.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_exti.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_fmc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_gpio.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_hrtim.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_i2c.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_iwdg.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_opamp.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_pwr.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_rcc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_rtc.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_spi.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_system.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_tim.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_usart.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_utils.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_wwdg.h
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_adc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_adc_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_can.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_cec.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_comp.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_cortex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_crc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_crc_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_dac.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_dac_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_dma.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_flash.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_flash_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_gpio.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_hrtim.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2c.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2c_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2s.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2s_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_irda.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_iwdg.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_msp_template.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_nand.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_nor.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_opamp.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_opamp_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pccard.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pcd.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pcd_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_pwr_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rcc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rcc_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rtc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_rtc_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_sdadc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_smartcard.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_smartcard_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_smbus.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_spi.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_spi_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_sram.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tim.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tim_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_alarm_template.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_rtc_wakeup_template.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_timebase_tim_template.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tsc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_uart.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_uart_ex.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_usart.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_wwdg.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_adc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_comp.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_crc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_dac.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_dma.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_exti.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_fmc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_gpio.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_hrtim.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_i2c.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_opamp.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_pwr.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_rcc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_rtc.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_spi.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_tim.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_usart.c
+        new file:   First pro/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_ll_utils.c
+        new file:   First pro/First pro.ioc
+        new file:   First pro/Inc/main.h
+        new file:   First pro/Inc/stm32f3xx_hal_conf.h
+        new file:   First pro/Inc/stm32f3xx_it.h
+        new file:   First pro/MDK-ARM/DebugConfig/First_pro_STM32F303VCTx.dbgconf
+        new file:   First pro/MDK-ARM/First pro.uvguix.yuliyas
+        new file:   First pro/MDK-ARM/First pro.uvoptx
+        new file:   First pro/MDK-ARM/First pro.uvprojx
+        new file:   First pro/MDK-ARM/First pro/First pro.axf
+        new file:   First pro/MDK-ARM/First pro/First pro.build_log.htm
+        new file:   First pro/MDK-ARM/First pro/First pro.hex
+        new file:   First pro/MDK-ARM/First pro/First pro.htm
+        new file:   First pro/MDK-ARM/First pro/First pro.lnp
+        new file:   First pro/MDK-ARM/First pro/First pro.map
+        new file:   First pro/MDK-ARM/First pro/First pro.sct
+        new file:   First pro/MDK-ARM/First pro/First pro_First pro.dep
+        new file:   First pro/MDK-ARM/First pro/main.crf
+        new file:   First pro/MDK-ARM/First pro/main.d
+        new file:   First pro/MDK-ARM/First pro/main.o
+        new file:   First pro/MDK-ARM/First pro/startup_stm32f303xc.d
+        new file:   First pro/MDK-ARM/First pro/startup_stm32f303xc.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_cortex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_cortex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_cortex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_dma.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_dma.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_dma.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_flash_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_gpio.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_gpio.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_gpio.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_i2c_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_msp.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_msp.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_msp.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pcd_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_pwr_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_rcc_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_spi_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim_ex.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim_ex.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_hal_tim_ex.o
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_it.crf
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_it.d
+        new file:   First pro/MDK-ARM/First pro/stm32f3xx_it.o
+        new file:   First pro/MDK-ARM/First pro/system_stm32f3xx.crf
+        new file:   First pro/MDK-ARM/First pro/system_stm32f3xx.d
+        new file:   First pro/MDK-ARM/First pro/system_stm32f3xx.o
+        new file:   First pro/MDK-ARM/RTE/_First_pro/RTE_Components.h
+        new file:   First pro/MDK-ARM/startup_stm32f303xc.lst
+        new file:   First pro/MDK-ARM/startup_stm32f303xc.s
+        new file:   First pro/Src/main.c
+        new file:   First pro/Src/stm32f3xx_hal_msp.c
+        new file:   First pro/Src/stm32f3xx_it.c
+        new file:   First pro/Src/system_stm32f3xx.c
+
+[1]+  Done                    git gui
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git restore --staged
+fatal: you must specify path(s) to restore
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git restore --staged First\ pro/
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        First pro/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git reset -- soft
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        First pro/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ git clean -xdf
+Removing First pro/
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$ ^C
+
+YS@LAPTOP-DHSNN406 MINGW64 /y/GlobalLogic_ProCamp/GL_EmbededProCamp_HomeWork (master)
+$
